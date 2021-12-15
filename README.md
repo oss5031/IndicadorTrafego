@@ -2,11 +2,11 @@
 
 Este repositório contêm todo o código necessário para a implementação de:
 
-* **Sistema de recolha, armazenamento e pré-tratamento de dados** provenientes de diversas fontes;
+1. [Sistema de recolha, armazenamento e pré-tratamento de dados](https://github.com/oss5031/IndicadorTrafego/tree/main/1%20Sistema%20de%20Recolha%20de%20Dados) provenientes de diversas fontes;
 
-* **Modelo de previsão**, nomeadamente, a transformação e derivação de novas caracteristicas.
+2. **Modelo de previsão**, nomeadamente, a transformação e derivação de novas caracteristicas.
 
-* **Visualização dos dados**, nomeadamente, a criação de indicadores de tráfego.
+3. **Visualização dos dados**, nomeadamente, a criação de indicadores de tráfego.
 
 ---
 
